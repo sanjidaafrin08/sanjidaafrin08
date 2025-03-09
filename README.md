@@ -1,5 +1,5 @@
 ### Welcome!👋  Here’s some glimpse into my development journey 
-####  Aspiring Software Quality Assurance Engineer
+####  Software Quality Assurance Engineer
 As a fresh graduate with a BSc in CSE, I am enthusiastic about be-
 ginning my career in SQA and am dedicated to contributing to the
 development and maintenance of high-quality software products.
