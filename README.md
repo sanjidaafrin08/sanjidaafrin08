@@ -1,4 +1,4 @@
-### Welcome!👋  Here’s some glimpse into my development journey 
+### Welcome!👋  Here’s some glimpse into my SQA journey 
 ####  Software Quality Assurance Engineer
 As a fresh graduate with a BSc in CSE, I am enthusiastic about be-
 ginning my career in SQA and am dedicated to contributing to the
