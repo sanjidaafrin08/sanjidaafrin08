@@ -4,7 +4,7 @@ As a fresh graduate with a BSc in CSE, I am enthusiastic about be-
 ginning my career in SQA and am dedicated to contributing to the
 development and maintenance of high-quality software products.
  
- Skills: Manual Testing  / API Testing / Performance Testing / Test case Writing / Bug Tracking /Basic Python 
+ Skills: Manual Testing  / API Testing / Performance Testing / Test case Writing / Bug Tracking /Basic Python / Automation Testing
 
 - 📫 How to reach me: afrinsanjida997@gmail.com 
 
